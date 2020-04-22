@@ -1,0 +1,1 @@
+# Heuristic_algo_for_sokoban_assignation_of_stock
